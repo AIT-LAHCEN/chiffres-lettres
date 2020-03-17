@@ -7,4 +7,4 @@ mais notre jeu est réalisé sans interface graphique, étant uniquement conçu 
 
 ## Membre de l’équipe :
 - [AIT LAHCEN Ahmed](https://github.com/AIT-LAHCEN)
-- [CHICHI Hamza](https://github.com/Hamza-
+- [CHICHI Hamza](https://github.com/Hamza-CHICHI)
